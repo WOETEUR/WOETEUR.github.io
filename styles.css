@@ -1,0 +1,87 @@
+body{
+	background-color: #e0e5e4;
+	text-align:center;
+	background: url(wall.jpg);
+}
+h1 , p{
+	font-style:bold;
+	font-family:"Times New Roman", "Times", "serif";
+	text-indent:20px;
+}	
+#menu{
+	width:auto;
+	background-color:#928489;
+	color:black;
+	border-style:none;
+	border-color:black;
+	margin:20px;
+	padding:20px;
+	text-align:auto;
+	float:top;	
+	height:auto;
+	text-align:auto;
+}
+li{
+	display:inline;
+	margin-left:20px;
+}
+a {
+	color:#098764;
+	text-decoration:none;
+}
+a:hover{
+	color:#934392;
+}
+.terug{
+	width:auto;
+	background-color:#928489;
+	color:auto;
+	border-style:line;
+	border-radius:10px;
+}
+.button{
+	width:auto;
+	background-color:#928489;
+	color:auto;
+	border-style:line;
+	border-radius:10px;
+	text-align:center;
+}
+.headtext-logo{
+	font-size:40px;
+	font-family:fs5;
+}
+@font-face{
+	font-family:fs5;
+	src: url(fs5.ttf)
+}
+.headtext{
+	font-size:40px;
+	font-family:fs4;
+}
+@font-face{
+	font-family:fs4;
+	src: url(fs4.ttf)
+}
+.headtext-body{
+	font-size:20px;
+	font-family:fs6;
+}
+@font-face{
+	font-family:fs6;
+	src: url(fs6.ttf)
+}
+#logo{
+	width:auto;
+	background-color:#928489;
+	color:black;
+	border-style: none;
+	border-color:black;
+	margin:20px;
+	padding:20px;
+	text-align:auto;
+	float:top;	
+}
+#bloemtext{
+	text-align:center;
+}
